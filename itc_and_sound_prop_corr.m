@@ -1,0 +1,10 @@
+load('sound_properties.mat');
+load('itc_for_corr.mat');
+[rho1,pval1]=corr(Gini_index,mean4)
+[rho2,pval2]=corr(Gini_index,mean8)
+[rho3,pval3]=corr(pos_der_cond,mean4)
+[rho4,pval4]=corr(pos_der_cond,mean8)
+[rho5,pval5]=corr(Max_Amplitude,mean4)
+[rho6,pval6]=corr(Max_Amplitude,mean8)
+[rho7,pval7]=corr(Time_to_peak,mean4)
+[rho8,pval8]=corr(Time_to_peak,mean8)

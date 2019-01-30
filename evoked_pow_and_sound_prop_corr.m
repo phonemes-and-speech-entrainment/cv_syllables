@@ -1,0 +1,10 @@
+load('sound_properties.mat');
+load('evoked_pow_for_corr.mat');
+[rho1,pval1]=corr(Gini_index,meanevokedpow4_2)
+[rho2,pval2]=corr(Gini_index,meanevokedpow8_2)
+[rho3,pval3]=corr(pos_der_cond,meanevokedpow4_2)
+[rho4,pval4]=corr(pos_der_cond,meanevokedpow8_2)
+[rho5,pval5]=corr(Max_Amplitude,meanevokedpow4_2)
+[rho6,pval6]=corr(Max_Amplitude,meanevokedpow8_2)
+[rho7,pval7]=corr(Time_to_peak,meanevokedpow4_2)
+[rho8,pval8]=corr(Time_to_peak,meanevokedpow8_2)
