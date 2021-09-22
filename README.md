@@ -9,5 +9,4 @@ Neural entrainment to speech seems to rely on syllabic features, especially thos
 
 
 Note
-
 The raw EEG data as well as larger Matlab variables used in some of the scripts are uploaded publicly to https://osf.io/3c6tv/.
