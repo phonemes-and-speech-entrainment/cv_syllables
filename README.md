@@ -15,6 +15,6 @@ Note
 1. The raw EEG data as well as larger Matlab variables used in some of the scripts are uploaded publicly to https://osf.io/3c6tv/.
 Important: some of the data and data processing scripts (including pre-processing in EEGLAB) are on University of Bristol machines which were moved during the pandemic. Please contact Conor Houghton or Nina Kazanina for additional info.
 
-2. These were the same participants used for the Burroughs, Kazanina and Houghton experiments. I aided both with data collection and data analysis.
+2. These were the same participants used for the Burroughs, Kazanina and Houghton experiments. I aided both with data collection and EEG preprocessing.
 
 
